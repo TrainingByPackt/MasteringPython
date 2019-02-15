@@ -4,64 +4,31 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/MasteringPython/pulls)
 
 ## Mastering Python
-The course starts with a detailed explanation of CI/CD concepts by experimenting with cloud services and on-premise applications. You'll learn to create multi-stage builds and tests for Docker and apply best practices for Docker containers. You'll learn how to continuously deliver to Docker registry. As the course progresses, you'll experiment cloud services for continuous integration including build and test of cloud-native microservices. When the course ends, you would have experimented using Gitlab CI/CD Pipelines for continuous delivery, and configured and deployed software to Kubernetes using Helm.
+TThis Learning Path shows you how to leverage the power of both native and third-party Python libraries for building robust and responsive applications. You will learn about profilers and reactive programming, concurrency and parallelism,as well as tools for making your apps quick and efficient. You will discover how to write code for parallel architectures using TensorFlow and Theano, and use a cluster of computers for large-scale computations using technologies such as Dask and PySpark. With the knowledge of how Python design patterns work, you will be able to clone objects, secure interfaces, dynamically choose algorithms, and accomplish much more in high performance computing.
 
-Cloud-Native Continuous Integration and Delivery by **Onur Yilmaz**
+By the end of this Learning Path, you will have the skills and confidence to build engaging models that quickly offer efficient solutions to your problems.
+
+# This Learning Path includes content from the following Packt products:
+Python High Performance - Second Edition by Gabriele Lanaro
+Mastering Concurrency in Python by Quan Nguyen
+Mastering Python Design Patterns by Sakis Kasampalis
+
+Mastering Python by  **Dr. Gabriele Lanaro, Quan Nguyen, and Sakis Kasampalis**
 
 ## What you will learn
-*	Learn the basics of DevOps patterns for cloud-native architecture 
-* Learn the cloud-native way of designing CI/CD systems 
-*	Apply the best practices for Docker container images  
-*	Experiment using GitLab CI/CD pipelines for Continuous Integration 
-*	Learn how to continuously deliver to Docker registry 
-*	Learn how to continuously deploy to Kubernetes 
-*	Experiment using GitLab CI/CD pipelines for Continuous Delivery 
-*	Configure and deploy software to Kubernetes using Helm
+*	Use NumPy and pandas to import and manipulate datasets
+*	Achieve native performance with Cython and Numba
+*	Write asynchronous code using asyncio and RxPy
+*	Design highly scalable programs with application scaffolding
+*	Explore abstract methods to maintain data consistency
+*	Clone objects using the prototype pattern
+*	Use the adapter pattern to make incompatible interfaces compatible
+*	Employ the strategy pattern to dynamically choose an algorithm
 
 ### Hardware requirements
-For an optimal student experience, we recommend the following hardware configuration:
-* **Processor**: Intel Core i5 or equivalent
-* **Memory**: 4 GB RAM or higher
+
 
 ### Software requirements
-You’ll also need the following software installed in advance:
-* **Text Editor**: Sublime Text (latest version), Atom IDE (latest version), or another similar text editor application
-* Docker (Version 17.05 or higher)
-* Git
-* GNU make
-### Dependency Management
-* [govendor](https://github.com/kardianos/govendor) is used for dependency management.
-* Fixed versions can be checked from [vendor.json](vendor/vendor.json)
 
 
-## Website Pipeline Example
-
-* This project's static pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).
-* Static files are generated using [hugo](https://gohugo.io).
-
-## Cloud-Native Book-Server Microservice 
-* REST API Server that works with any SQL database
-* Cloud ready and all steps in Docker
-* Gitlab CI Pipeline ready
-
-## Requirements
-* Docker (> version 17.05)
-* GNU make
-	
-## Testing
-All testing levels are implemented:
-```
-make static-code-check smoke-test unit-test integration-test
-```
-
-## Build
-Production ready Docker container:
-```
-make prod
-```
-
-## Dependency Management
-* [govendor](https://github.com/kardianos/govendor) is used for dependency management.
-* Fixed versions can be checked from [vendor.json](vendor/vendor.json)
 
