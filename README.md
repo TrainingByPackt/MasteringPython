@@ -5,6 +5,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/MasteringPython.svg)]
 (https://github.com/TrainingByPackt/MasteringPython/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/MasteringPython/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery.svg)](https://github.com/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery.svg)](https://github.com/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery.svg)](https://github.com/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery/pulls)
 
 ## Mastering Python
 The course starts with a detailed explanation of CI/CD concepts by experimenting with cloud services and on-premise applications. You'll learn to create multi-stage builds and tests for Docker and apply best practices for Docker containers. You'll learn how to continuously deliver to Docker registry. As the course progresses, you'll experiment cloud services for continuous integration including build and test of cloud-native microservices. When the course ends, you would have experimented using Gitlab CI/CD Pipelines for continuous delivery, and configured and deployed software to Kubernetes using Helm.
