@@ -9,6 +9,7 @@ TThis Learning Path shows you how to leverage the power of both native and third
 By the end of this Learning Path, you will have the skills and confidence to build engaging models that quickly offer efficient solutions to your problems.
 
 **This Learning Path includes content from the following Packt products:**
+
 Python High Performance - Second Edition by Gabriele Lanaro
 Mastering Concurrency in Python by Quan Nguyen
 Mastering Python Design Patterns by Sakis Kasampalis
