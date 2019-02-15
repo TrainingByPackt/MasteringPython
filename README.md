@@ -11,7 +11,9 @@ By the end of this Learning Path, you will have the skills and confidence to bui
 **This Learning Path includes content from the following Packt products:**
 
 Python High Performance - Second Edition by Gabriele Lanaro
+
 Mastering Concurrency in Python by Quan Nguyen
+
 Mastering Python Design Patterns by Sakis Kasampalis
 
 Mastering Python by  **Dr. Gabriele Lanaro, Quan Nguyen, and Sakis Kasampalis**
