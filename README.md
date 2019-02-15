@@ -1,10 +1,3 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/MasteringPython.svg)]
-(https://github.com/TrainingByPackt/MasteringPython/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/MasteringPython.svg)]
-(https://github.com/TrainingByPackt/MasteringPython/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/MasteringPython.svg)]
-(https://github.com/TrainingByPackt/MasteringPython/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/MasteringPython/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery.svg)](https://github.com/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery.svg)](https://github.com/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery.svg)](https://github.com/TrainingByPackt/Cloud-Native-Continuous-Integration-and-Delivery/stargazers)
